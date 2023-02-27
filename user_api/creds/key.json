@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ristek-medsos",
+  "private_key_id": "5032d419e6fa890d5897fd44b99004d825f67f3b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDSm3Ljp01/XnIS\nUqvgD4DTQJcSOVwPcDS6dZ7dQ0H1ls1Id+oMFGfO0Xm+a+NowtNgpggEo1cpkqv7\nvt1qvI8tzej/Df2NPLcSV7vUMB4iUghOkUK5qfpgGLywikIttPU39ryyxY3OYtZx\nT/8+V/2sr+LSnuPzNi8bpYHvroXUGhX4cZIBGA0SS6CXSSQ0Znf457LsEqVrdlCY\nYLRFGnnSLHTNDGc+cNjBRmG3+p9Xyeemx2M5ITtgzbb7Nern3IxcOsbocxM2RUEe\nQ/iaapobOfiBJLAu0Hp876LOl2BPjLaEy6XYcVfeE7rAYbJgsBUFaRqK/WZ4ABhk\nLmz/aJ7VAgMBAAECggEADUfCnU2KiD59Icp8mT7OWuPe3YYS7Uv1czrhVzv7aosF\na61YwPAUzK3uXUjXLfRiblzXMsMBscwp0/so4fxnvesW/GWriE6yD5zLKg8/szPU\n327EVEn+O7WLnnPqxjrmifkhKde7Fa7WArlZPnCU0ovDw+VuOS2rQkpz5gMtYAle\nGiJjrNkV/x1GgwYoOHKKYocxGjU2y9dSn8NeqbErGcPlIZpA0B4jGHWWMaKzXXCT\neA7CCE0Q8d+14x/S/bf4pbT2dnOUaLg1JWyd3OAnliw5CnhmkYdvL6OOGSpyR4c0\nDwHP9uSY+zzZWMe9TERdwamv/NIgYxqRJaU5aUnD6QKBgQDu22VMAbwiEY73CAAj\nlH+9IK1Ynmnc5EOMiR52QQUqkHjE51Feqgc5FtZLU9DBexzk/5gh9HXV035Of3yZ\ndwSIf3B10XZLMowrky75J9XPAWCxukEdMhLRYYyb0E0KW36le1Hf4U6ba3A5B8jA\nr8mE0RLFCbTobVFDFiokUALHeQKBgQDhuQJ6HGf94lxuPMw8plE3Yl/s+T4Rysz1\nZRTHJt8icTsVTzpVh93GrQiR9hHx4fx6aeJzb692+78U9/x7XE+QqVeGLaRN4NxD\nQchjWkbAzs/kz8rRop+qP5sF1WhuBW6cPSmoRRTbhjgd6Wf3GHCIXcscGGpxF0bF\n4zPm5scPPQKBgH77YkHjFjpibUfFGBXSR4qrSZy4Mv182LBo4Snq7S0wuxOrCiYy\nbD6cdnZ7a5rAsZ7Ihv9eMBrqIdbnjb0keeN7JLVuEt5tU/mCeNF6rP8s81Po+d7k\nlP59Rrw7JAnilFSzV9aWuCyGFJYtHjvZ+F9Eqx7XRzbdjvsEWIkPhDq5AoGAEM+n\nqJKPCDCgs7EhgO7eI6LXBB44CjkxdKFXn9F8UuNeBCNHc/FPiil+9uf9xCcRl8hl\nDjXmOpVbUON7UXC5mEuUcjDaCNbTcMrocsXZeSiuARucvmo/O/3KvO98/Jy49Tf0\n70xd1k+zxD6K+LNARle99dS3sL6MDdbzGaJcdv0CgYBO8mLymHtRq2XQwUfymly5\nyvg5tJru+rppwlYP5TGEqwFksYIzA3AkkeF5tMkM3s+/ajjFmlBYJ8+t/EhtfYSG\n1U4BKfTp3OIGgmzf2dR557UZmqW9x2qBOsnOMwgKMIk/DnSAvP5/b8EWX2M0kRXS\nbH1awHjGfb3XZpWNdvSScQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-vig3i@ristek-medsos.iam.gserviceaccount.com",
+  "client_id": "111192364175688579411",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vig3i%40ristek-medsos.iam.gserviceaccount.com"
+}
