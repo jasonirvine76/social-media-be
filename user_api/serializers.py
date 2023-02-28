@@ -24,7 +24,7 @@ class UserSerializer(serializers.ModelSerializer):
       fields = ("username","profile_picture","name","bio","close_friends","feeds")
 
     def get_feeds(self, obj):
-        all_feeds = Feed.objects.filter(user=obj)
+        all_feeds = Feed.objects.filter(user=obj).order_by('-created_at')
         list_of_feeds = []
         for feed in all_feeds:
             dct = {}
